@@ -1,0 +1,53 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MyPlayer - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\fujitsu\AppData\Local\Temp\RSPAF78.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/MyPlayer.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\study\then final music\www.NewXing.com\mp3播放器(vc++) 支持歌词同步显示哦\MyPlayer.cpp"
+"D:\study\then final music\www.NewXing.com\mp3播放器(vc++) 支持歌词同步显示哦\PlayListDlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\fujitsu\AppData\Local\Temp\RSPAF78.tmp" 
+Creating temporary file "C:\Users\fujitsu\AppData\Local\Temp\RSPAF79.tmp" with contents
+[
+version.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/MyPlayer.pdb" /machine:I386 /out:"Release/MyPlayer.exe" 
+".\Release\DelListDlg.obj"
+".\Release\FileAttributeDlg.obj"
+".\Release\LyricDlg.obj"
+".\Release\MyList.obj"
+".\Release\MyPlayer.obj"
+".\Release\MyPlayerDlg.obj"
+".\Release\NewListDlg.obj"
+".\Release\PlayListDlg.obj"
+".\Release\program_sense.obj"
+".\Release\RenameDlg.obj"
+".\Release\SkinButton.obj"
+".\Release\SlideButton.obj"
+".\Release\status_sense.obj"
+".\Release\StdAfx.obj"
+".\Release\TransparentStatic.obj"
+".\Release\VolumeButton.obj"
+".\Release\MyPlayer.res"
+]
+Creating command line "link.exe @C:\Users\fujitsu\AppData\Local\Temp\RSPAF79.tmp"
+<h3>Output Window</h3>
+Compiling...
+MyPlayer.cpp
+D:\study\then final music\www.NewXing.com\mp3播放器(vc++) 支持歌词同步显示哦\MyPlayer.cpp(5) : warning C4652: compiler option 'Generate Browser Info' inconsistent with precompiled header; current command-line option will override that defined in the precompiled header
+PlayListDlg.cpp
+D:\study\then final music\www.NewXing.com\mp3播放器(vc++) 支持歌词同步显示哦\PlayListDlg.cpp(5) : warning C4652: compiler option 'Generate Browser Info' inconsistent with precompiled header; current command-line option will override that defined in the precompiled header
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+MyPlayer.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
