@@ -1,0 +1,41 @@
+# ----- REMOVE LINES ABOVE HERE --------------------------
+#
+# This license is valid from Mon Dec 15 03:03:51 UTC 2014.
+#
+# This is license NODELOCKED to HOSTID=ANY;
+# there is no need to run lmgrd for this license.
+#
+#
+# This is a permanent license generated on Mon Dec 15 03:03:51 UTC 2014
+INCREMENT ISE_WebPACK xilinxd 2015.12 permanent uncounted \
+928C12150507 \
+VENDOR_STRING=tongxin_1988,ISE_WebPACK,software,permanent,_207600880_1777491182_0_870 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=15-Dec-2014 TS_OK
+#
+# This is a permanent license generated on Mon Dec 15 03:03:51 UTC 2014
+INCREMENT Vivado_WebPACK xilinxd 2015.12 permanent uncounted \
+E29F53845325 \
+VENDOR_STRING=tongxin_1988,Vivado_WebPACK,software,permanent,_207600880_1777491182_0_619 \
+HOSTID=ANY ISSUER="Xilinx Inc" START=15-Dec-2014 TS_OK
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE ISE_WebPACK xilinxd 2015.12 A06D77F5EAF6 COMPONENTS="SDK \
+WebPACK XC7Z010 XC7Z030 xps_tdp XC7Z020 PlanAhead" \
+OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+#
+# ----------------------------------------------------------------------
+#  The following PACKAGE definition is a REQUIRED part of this license:
+#
+PACKAGE Vivado_WebPACK xilinxd 2015.12 9997C736421C COMPONENTS="SDK \
+WebPACK XC7Z010 XC7Z020 XC7Z030 V_WebPACK xps_tdp PlanAhead" \
+OPTIONS=SUITE
+#
+# ------------------------------------------------------------------------------
+#
+# ----- REMOVE LINES BELOW HERE --------------------------
